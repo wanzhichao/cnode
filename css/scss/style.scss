@@ -1,0 +1,15 @@
+@charset "UTF-8";
+@import "../common/rem",
+        "../common/common";
+
+//组件
+
+@import "../components/_iconfont",
+        "../components/_header",
+        "../components/_about",
+        "../components/_slidebar",
+        "../components/_postlist";
+
+//page
+@import "../page/_home",
+        "../page/_topic";
