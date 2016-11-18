@@ -1,6 +1,5 @@
 
 import React from 'react'
-import ReactCSSTransitionGroup from 'react-addons-css-transition-group'
 import Home from "./pages/home"
 import Main from "./pages/main"
 import About from "./pages/about"
