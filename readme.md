@@ -27,7 +27,9 @@ npm run dev
 webpack -p然后 gulp build
 ```
 
-###开发
+###项目地址
+
+   ![http://1.motherday11.sinaapp.com/cnode/html/index.html#/home/main/](https://github.com/wanzhichao/cnode/blob/master/images/share.png)
 
 ###目录结构
 <pre>
